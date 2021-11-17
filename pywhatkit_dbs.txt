@@ -1,0 +1,958 @@
+--------------------
+Date: 11:11:2021
+Time: 6:6
+Phone number: +9422878112
+Message: hello
+--------------------
+Date: 11:11:2021
+Time: 6:6
+Phone number: +919422878112
+Message: hello
+--------------------
+Date: 16:11:2021
+Time: 4:45
+Phone number: +919422878112
+Message: hello
+--------------------
+Date: 16:11:2021
+Time: 16:47
+Phone number: +919422878112
+Message: hello
+--------------------
+Date: 16:11:2021
+Time: 17:21
+Phone number: +919422961157
+Message:  ABB India delivery volume has change 523.0995425833152 
+ ABB Power Produ delivery volume has change 417.39811912225707 
+ AIA Engineering delivery volume has change 513.7931034482759 
+ APL Apollo delivery volume has change -86.86505900461775 
+ Adani Ports delivery volume has change -85.85278032541866 
+ Ajanta Pharma delivery volume has change -82.34042553191489 
+ Apollo Hospital delivery volume has change 551.3284132841329 
+ Ashoka Buildcon delivery volume has change 455.5933727202672 
+ AstraZeneca delivery volume has change 476.1904761904762 
+ Aurobindo Pharm delivery volume has change 553.8904494382022 
+ Avenue Supermar delivery volume has change -87.00403045230631 
+ BASF delivery volume has change 407.0160608622147 
+ Bajaj Electric delivery volume has change 483.23504633529905 
+ Balrampur Chini delivery volume has change -75.95906558079726 
+ Berger Paints delivery volume has change -81.40640051375361 
+ Bharti Airtel delivery volume has change -86.210194569119 
+ Biocon delivery volume has change 2178.4785944693244 
+ Bombay Burmah delivery volume has change 500.5154639175258 
+ Britannia delivery volume has change 638.169803189197 
+ Burger King delivery volume has change -75.04725180947564 
+ CAMS delivery volume has change -78.27236668135743 
+ Can Fin Homes delivery volume has change 426.5985699693565 
+ Capri Global delivery volume has change -86.44207066557108 
+ Cochin Shipyard delivery volume has change -77.57085349489692 
+ Dalmia Bharat delivery volume has change -95.61502096155562 
+ Exide Ind delivery volume has change 491.81453606548376 
+ FDC delivery volume has change -75.12382728279238 
+ Finolex Cables delivery volume has change 642.5735294117648 
+ Firstsource Sol delivery volume has change 915.8976149548776 
+ GSFC delivery volume has change 371.2014066740568 
+ Garden Reach Sh delivery volume has change -76.17486338797815 
+ Godrej Consumer delivery volume has change -84.89509522657357 
+ Granules India delivery volume has change 717.7978771116758 
+ Grasim delivery volume has change -95.36732876922605 
+ HDFC AMC delivery volume has change -76.4931576927996 
+ HDFC Life delivery volume has change -79.87239129869792 
+ Hindustan Aeron delivery volume has change 932.6776347162614 
+ INOX Leisure delivery volume has change -89.43026476457099 
+ ITC delivery volume has change 681.0450575151544 
+ Indiabulls Hsg delivery volume has change 346.64229064215397 
+ Indostar Capita delivery volume has change -76.5032377428307 
+ Interglobe Avi delivery volume has change -99.81279683780348 
+ J. K. Cement delivery volume has change 350.59588299024915 
+ JM Financial delivery volume has change -87.94933947400315 
+ Jamna Auto delivery volume has change -83.53756136929181 
+ Jindal (Hisar) delivery volume has change -75.92480713820987 
+ Johnson Control delivery volume has change -99.06466755412316 
+ Lemon Tree Hote delivery volume has change 755.5714346657566 
+ M&M delivery volume has change -88.98331962564573 
+ M&M Financial delivery volume has change 778.4173944038496 
+ MAS Financial S delivery volume has change -75.84852734922862 
+ MRF delivery volume has change 301.04166666666663 
+ Mahindra Logist delivery volume has change -82.74521531100478 
+ Manappuram Fin delivery volume has change 942.981117680717 
+ Max Healthcare delivery volume has change 987.0005724098455 
+ Metropolis delivery volume has change 1182.4543610547669 
+ Minda Ind delivery volume has change -76.06548471529459 
+ Mindtree delivery volume has change -84.37674991600403 
+ NTPC delivery volume has change -94.1959515829223 
+ ONGC delivery volume has change 358.9721215123742 
+ Orient Electric delivery volume has change 640.855762594893 
+ PI Industries delivery volume has change 350.19210618232626 
+ PTC India delivery volume has change -78.11711278983451 
+ Poly Medicure delivery volume has change -86.09827803443932 
+ Power Grid Corp delivery volume has change 322.964390868641 
+ Prestige Estate delivery volume has change -84.32120253164557 
+ Radico Khaitan delivery volume has change 383.82630585273756 
+ Rail Vikas delivery volume has change -77.8687369597247 
+ Rajesh Exports delivery volume has change 1230.1340250756593 
+ Ratnamani Metal delivery volume has change -99.50743732965032 
+ Shree Cements delivery volume has change -79.45945945945945 
+ Syngene Intl delivery volume has change 720.46078865751 
+ Tasty Bite delivery volume has change 795.8904109589041 
+ Tata Coffee delivery volume has change 637.2682067750958 
+ TeamLease Ser. delivery volume has change 913.7184115523465 
+ Thyrocare Techn delivery volume has change 2162.2734761120264 
+ Timken delivery volume has change -89.68436328455678 
+ Torrent Pharma delivery volume has change -87.64565992865636 
+ UPL delivery volume has change 1421.5632686526374 
+ Ujjivan Financi delivery volume has change 948.9331335188754 
+ Ujjivan Small delivery volume has change -98.30227150778036 
+ UltraTechCement delivery volume has change 59398.824911868396 
+ Union Bank delivery volume has change -99.63249574232871 
+ United Brewerie delivery volume has change 3873.328352633545 
+ V-Guard Ind delivery volume has change -98.59689312048107 
+ V-Mart Retail delivery volume has change 2410.743801652892 
+ VRL Logistics delivery volume has change -94.7986817595644 
+ VST delivery volume has change 5732.236842105263 
+ Vaibhav Global delivery volume has change 11600.132684652808 
+ Vakrangee delivery volume has change -97.6451467268623 
+ Varun Beverages delivery volume has change 4827.9434250764525 
+ Vedanta delivery volume has change -99.7711061023661 
+ Voltas delivery volume has change -98.6328776258753 
+ WABCO India delivery volume has change 35992.68292682927 
+ Welspun India delivery volume has change -93.85127972133878 
+ Whirlpool delivery volume has change 2959.9490941757745 
+ Wipro delivery volume has change -96.22106239913218 
+ Wockhardt delivery volume has change 877.7437244600117 
+ Zensar Tech delivery volume has change -92.4716354290729 
+ Zydus Wellness delivery volume has change 1155.984555984556 
+
+--------------------
+Date: 16:11:2021
+Time: 17:23
+Phone number: +91878112
+Message:  ABB India delivery volume has change 523.0995425833152 
+ ABB Power Produ delivery volume has change 417.39811912225707 
+ AIA Engineering delivery volume has change 513.7931034482759 
+ APL Apollo delivery volume has change -86.86505900461775 
+ Adani Ports delivery volume has change -85.85278032541866 
+ Ajanta Pharma delivery volume has change -82.34042553191489 
+ Apollo Hospital delivery volume has change 551.3284132841329 
+ Ashoka Buildcon delivery volume has change 455.5933727202672 
+ AstraZeneca delivery volume has change 476.1904761904762 
+ Aurobindo Pharm delivery volume has change 553.8904494382022 
+ Avenue Supermar delivery volume has change -87.00403045230631 
+ BASF delivery volume has change 407.0160608622147 
+ Bajaj Electric delivery volume has change 483.23504633529905 
+ Balrampur Chini delivery volume has change -75.95906558079726 
+ Berger Paints delivery volume has change -81.40640051375361 
+ Bharti Airtel delivery volume has change -86.210194569119 
+ Biocon delivery volume has change 2178.4785944693244 
+ Bombay Burmah delivery volume has change 500.5154639175258 
+ Britannia delivery volume has change 638.169803189197 
+ Burger King delivery volume has change -75.04725180947564 
+ CAMS delivery volume has change -78.27236668135743 
+ Can Fin Homes delivery volume has change 426.5985699693565 
+ Capri Global delivery volume has change -86.44207066557108 
+ Cochin Shipyard delivery volume has change -77.57085349489692 
+ Dalmia Bharat delivery volume has change -95.61502096155562 
+ Exide Ind delivery volume has change 491.81453606548376 
+ FDC delivery volume has change -75.12382728279238 
+ Finolex Cables delivery volume has change 642.5735294117648 
+ Firstsource Sol delivery volume has change 915.8976149548776 
+ GSFC delivery volume has change 371.2014066740568 
+ Garden Reach Sh delivery volume has change -76.17486338797815 
+ Godrej Consumer delivery volume has change -84.89509522657357 
+ Granules India delivery volume has change 717.7978771116758 
+ Grasim delivery volume has change -95.36732876922605 
+ HDFC AMC delivery volume has change -76.4931576927996 
+ HDFC Life delivery volume has change -79.87239129869792 
+ Hindustan Aeron delivery volume has change 932.6776347162614 
+ INOX Leisure delivery volume has change -89.43026476457099 
+ ITC delivery volume has change 681.0450575151544 
+ Indiabulls Hsg delivery volume has change 346.64229064215397 
+ Indostar Capita delivery volume has change -76.5032377428307 
+ Interglobe Avi delivery volume has change -99.81279683780348 
+ J. K. Cement delivery volume has change 350.59588299024915 
+ JM Financial delivery volume has change -87.94933947400315 
+ Jamna Auto delivery volume has change -83.53756136929181 
+ Jindal (Hisar) delivery volume has change -75.92480713820987 
+ Johnson Control delivery volume has change -99.06466755412316 
+ Lemon Tree Hote delivery volume has change 755.5714346657566 
+ M&M delivery volume has change -88.98331962564573 
+ M&M Financial delivery volume has change 778.4173944038496 
+ MAS Financial S delivery volume has change -75.84852734922862 
+ MRF delivery volume has change 301.04166666666663 
+ Mahindra Logist delivery volume has change -82.74521531100478 
+ Manappuram Fin delivery volume has change 942.981117680717 
+ Max Healthcare delivery volume has change 987.0005724098455 
+ Metropolis delivery volume has change 1182.4543610547669 
+ Minda Ind delivery volume has change -76.06548471529459 
+ Mindtree delivery volume has change -84.37674991600403 
+ NTPC delivery volume has change -94.1959515829223 
+ ONGC delivery volume has change 358.9721215123742 
+ Orient Electric delivery volume has change 640.855762594893 
+ PI Industries delivery volume has change 350.19210618232626 
+ PTC India delivery volume has change -78.11711278983451 
+ Poly Medicure delivery volume has change -86.09827803443932 
+ Power Grid Corp delivery volume has change 322.964390868641 
+ Prestige Estate delivery volume has change -84.32120253164557 
+ Radico Khaitan delivery volume has change 383.82630585273756 
+ Rail Vikas delivery volume has change -77.8687369597247 
+ Rajesh Exports delivery volume has change 1230.1340250756593 
+ Ratnamani Metal delivery volume has change -99.50743732965032 
+ Shree Cements delivery volume has change -79.45945945945945 
+ Syngene Intl delivery volume has change 720.46078865751 
+ Tasty Bite delivery volume has change 795.8904109589041 
+ Tata Coffee delivery volume has change 637.2682067750958 
+ TeamLease Ser. delivery volume has change 913.7184115523465 
+ Thyrocare Techn delivery volume has change 2162.2734761120264 
+ Timken delivery volume has change -89.68436328455678 
+ Torrent Pharma delivery volume has change -87.64565992865636 
+ UPL delivery volume has change 1421.5632686526374 
+ Ujjivan Financi delivery volume has change 948.9331335188754 
+ Ujjivan Small delivery volume has change -98.30227150778036 
+ UltraTechCement delivery volume has change 59398.824911868396 
+ Union Bank delivery volume has change -99.63249574232871 
+ United Brewerie delivery volume has change 3873.328352633545 
+ V-Guard Ind delivery volume has change -98.59689312048107 
+ V-Mart Retail delivery volume has change 2410.743801652892 
+ VRL Logistics delivery volume has change -94.7986817595644 
+ VST delivery volume has change 5732.236842105263 
+ Vaibhav Global delivery volume has change 11600.132684652808 
+ Vakrangee delivery volume has change -97.6451467268623 
+ Varun Beverages delivery volume has change 4827.9434250764525 
+ Vedanta delivery volume has change -99.7711061023661 
+ Voltas delivery volume has change -98.6328776258753 
+ WABCO India delivery volume has change 35992.68292682927 
+ Welspun India delivery volume has change -93.85127972133878 
+ Whirlpool delivery volume has change 2959.9490941757745 
+ Wipro delivery volume has change -96.22106239913218 
+ Wockhardt delivery volume has change 877.7437244600117 
+ Zensar Tech delivery volume has change -92.4716354290729 
+ Zydus Wellness delivery volume has change 1155.984555984556 
+
+--------------------
+Date: 16:11:2021
+Time: 17:25
+Phone number: +9194878112
+Message:  ABB India delivery volume has change 523.0995425833152 
+ ABB Power Produ delivery volume has change 417.39811912225707 
+ AIA Engineering delivery volume has change 513.7931034482759 
+ APL Apollo delivery volume has change -86.86505900461775 
+ Adani Ports delivery volume has change -85.85278032541866 
+ Ajanta Pharma delivery volume has change -82.34042553191489 
+ Apollo Hospital delivery volume has change 551.3284132841329 
+ Ashoka Buildcon delivery volume has change 455.5933727202672 
+ AstraZeneca delivery volume has change 476.1904761904762 
+ Aurobindo Pharm delivery volume has change 553.8904494382022 
+ Avenue Supermar delivery volume has change -87.00403045230631 
+ BASF delivery volume has change 407.0160608622147 
+ Bajaj Electric delivery volume has change 483.23504633529905 
+ Balrampur Chini delivery volume has change -75.95906558079726 
+ Berger Paints delivery volume has change -81.40640051375361 
+ Bharti Airtel delivery volume has change -86.210194569119 
+ Biocon delivery volume has change 2178.4785944693244 
+ Bombay Burmah delivery volume has change 500.5154639175258 
+ Britannia delivery volume has change 638.169803189197 
+ Burger King delivery volume has change -75.04725180947564 
+ CAMS delivery volume has change -78.27236668135743 
+ Can Fin Homes delivery volume has change 426.5985699693565 
+ Capri Global delivery volume has change -86.44207066557108 
+ Cochin Shipyard delivery volume has change -77.57085349489692 
+ Dalmia Bharat delivery volume has change -95.61502096155562 
+ Exide Ind delivery volume has change 491.81453606548376 
+ FDC delivery volume has change -75.12382728279238 
+ Finolex Cables delivery volume has change 642.5735294117648 
+ Firstsource Sol delivery volume has change 915.8976149548776 
+ GSFC delivery volume has change 371.2014066740568 
+ Garden Reach Sh delivery volume has change -76.17486338797815 
+ Godrej Consumer delivery volume has change -84.89509522657357 
+ Granules India delivery volume has change 717.7978771116758 
+ Grasim delivery volume has change -95.36732876922605 
+ HDFC AMC delivery volume has change -76.4931576927996 
+ HDFC Life delivery volume has change -79.87239129869792 
+ Hindustan Aeron delivery volume has change 932.6776347162614 
+ INOX Leisure delivery volume has change -89.43026476457099 
+ ITC delivery volume has change 681.0450575151544 
+ Indiabulls Hsg delivery volume has change 346.64229064215397 
+ Indostar Capita delivery volume has change -76.5032377428307 
+ Interglobe Avi delivery volume has change -99.81279683780348 
+ J. K. Cement delivery volume has change 350.59588299024915 
+ JM Financial delivery volume has change -87.94933947400315 
+ Jamna Auto delivery volume has change -83.53756136929181 
+ Jindal (Hisar) delivery volume has change -75.92480713820987 
+ Johnson Control delivery volume has change -99.06466755412316 
+ Lemon Tree Hote delivery volume has change 755.5714346657566 
+ M&M delivery volume has change -88.98331962564573 
+ M&M Financial delivery volume has change 778.4173944038496 
+ MAS Financial S delivery volume has change -75.84852734922862 
+ MRF delivery volume has change 301.04166666666663 
+ Mahindra Logist delivery volume has change -82.74521531100478 
+ Manappuram Fin delivery volume has change 942.981117680717 
+ Max Healthcare delivery volume has change 987.0005724098455 
+ Metropolis delivery volume has change 1182.4543610547669 
+ Minda Ind delivery volume has change -76.06548471529459 
+ Mindtree delivery volume has change -84.37674991600403 
+ NTPC delivery volume has change -94.1959515829223 
+ ONGC delivery volume has change 358.9721215123742 
+ Orient Electric delivery volume has change 640.855762594893 
+ PI Industries delivery volume has change 350.19210618232626 
+ PTC India delivery volume has change -78.11711278983451 
+ Poly Medicure delivery volume has change -86.09827803443932 
+ Power Grid Corp delivery volume has change 322.964390868641 
+ Prestige Estate delivery volume has change -84.32120253164557 
+ Radico Khaitan delivery volume has change 383.82630585273756 
+ Rail Vikas delivery volume has change -77.8687369597247 
+ Rajesh Exports delivery volume has change 1230.1340250756593 
+ Ratnamani Metal delivery volume has change -99.50743732965032 
+ Shree Cements delivery volume has change -79.45945945945945 
+ Syngene Intl delivery volume has change 720.46078865751 
+ Tasty Bite delivery volume has change 795.8904109589041 
+ Tata Coffee delivery volume has change 637.2682067750958 
+ TeamLease Ser. delivery volume has change 913.7184115523465 
+ Thyrocare Techn delivery volume has change 2162.2734761120264 
+ Timken delivery volume has change -89.68436328455678 
+ Torrent Pharma delivery volume has change -87.64565992865636 
+ UPL delivery volume has change 1421.5632686526374 
+ Ujjivan Financi delivery volume has change 948.9331335188754 
+ Ujjivan Small delivery volume has change -98.30227150778036 
+ UltraTechCement delivery volume has change 59398.824911868396 
+ Union Bank delivery volume has change -99.63249574232871 
+ United Brewerie delivery volume has change 3873.328352633545 
+ V-Guard Ind delivery volume has change -98.59689312048107 
+ V-Mart Retail delivery volume has change 2410.743801652892 
+ VRL Logistics delivery volume has change -94.7986817595644 
+ VST delivery volume has change 5732.236842105263 
+ Vaibhav Global delivery volume has change 11600.132684652808 
+ Vakrangee delivery volume has change -97.6451467268623 
+ Varun Beverages delivery volume has change 4827.9434250764525 
+ Vedanta delivery volume has change -99.7711061023661 
+ Voltas delivery volume has change -98.6328776258753 
+ WABCO India delivery volume has change 35992.68292682927 
+ Welspun India delivery volume has change -93.85127972133878 
+ Whirlpool delivery volume has change 2959.9490941757745 
+ Wipro delivery volume has change -96.22106239913218 
+ Wockhardt delivery volume has change 877.7437244600117 
+ Zensar Tech delivery volume has change -92.4716354290729 
+ Zydus Wellness delivery volume has change 1155.984555984556 
+
+--------------------
+Date: 16:11:2021
+Time: 17:27
+Phone number: +919422878112
+Message:  ABB India delivery volume has change 523.0995425833152 
+ ABB Power Produ delivery volume has change 417.39811912225707 
+ AIA Engineering delivery volume has change 513.7931034482759 
+ APL Apollo delivery volume has change -86.86505900461775 
+ Adani Ports delivery volume has change -85.85278032541866 
+ Ajanta Pharma delivery volume has change -82.34042553191489 
+ Apollo Hospital delivery volume has change 551.3284132841329 
+ Ashoka Buildcon delivery volume has change 455.5933727202672 
+ AstraZeneca delivery volume has change 476.1904761904762 
+ Aurobindo Pharm delivery volume has change 553.8904494382022 
+ Avenue Supermar delivery volume has change -87.00403045230631 
+ BASF delivery volume has change 407.0160608622147 
+ Bajaj Electric delivery volume has change 483.23504633529905 
+ Balrampur Chini delivery volume has change -75.95906558079726 
+ Berger Paints delivery volume has change -81.40640051375361 
+ Bharti Airtel delivery volume has change -86.210194569119 
+ Biocon delivery volume has change 2178.4785944693244 
+ Bombay Burmah delivery volume has change 500.5154639175258 
+ Britannia delivery volume has change 638.169803189197 
+ Burger King delivery volume has change -75.04725180947564 
+ CAMS delivery volume has change -78.27236668135743 
+ Can Fin Homes delivery volume has change 426.5985699693565 
+ Capri Global delivery volume has change -86.44207066557108 
+ Cochin Shipyard delivery volume has change -77.57085349489692 
+ Dalmia Bharat delivery volume has change -95.61502096155562 
+ Exide Ind delivery volume has change 491.81453606548376 
+ FDC delivery volume has change -75.12382728279238 
+ Finolex Cables delivery volume has change 642.5735294117648 
+ Firstsource Sol delivery volume has change 915.8976149548776 
+ GSFC delivery volume has change 371.2014066740568 
+ Garden Reach Sh delivery volume has change -76.17486338797815 
+ Godrej Consumer delivery volume has change -84.89509522657357 
+ Granules India delivery volume has change 717.7978771116758 
+ Grasim delivery volume has change -95.36732876922605 
+ HDFC AMC delivery volume has change -76.4931576927996 
+ HDFC Life delivery volume has change -79.87239129869792 
+ Hindustan Aeron delivery volume has change 932.6776347162614 
+ INOX Leisure delivery volume has change -89.43026476457099 
+ ITC delivery volume has change 681.0450575151544 
+ Indiabulls Hsg delivery volume has change 346.64229064215397 
+ Indostar Capita delivery volume has change -76.5032377428307 
+ Interglobe Avi delivery volume has change -99.81279683780348 
+ J. K. Cement delivery volume has change 350.59588299024915 
+ JM Financial delivery volume has change -87.94933947400315 
+ Jamna Auto delivery volume has change -83.53756136929181 
+ Jindal (Hisar) delivery volume has change -75.92480713820987 
+ Johnson Control delivery volume has change -99.06466755412316 
+ Lemon Tree Hote delivery volume has change 755.5714346657566 
+ M&M delivery volume has change -88.98331962564573 
+ M&M Financial delivery volume has change 778.4173944038496 
+ MAS Financial S delivery volume has change -75.84852734922862 
+ MRF delivery volume has change 301.04166666666663 
+ Mahindra Logist delivery volume has change -82.74521531100478 
+ Manappuram Fin delivery volume has change 942.981117680717 
+ Max Healthcare delivery volume has change 987.0005724098455 
+ Metropolis delivery volume has change 1182.4543610547669 
+ Minda Ind delivery volume has change -76.06548471529459 
+ Mindtree delivery volume has change -84.37674991600403 
+ NTPC delivery volume has change -94.1959515829223 
+ ONGC delivery volume has change 358.9721215123742 
+ Orient Electric delivery volume has change 640.855762594893 
+ PI Industries delivery volume has change 350.19210618232626 
+ PTC India delivery volume has change -78.11711278983451 
+ Poly Medicure delivery volume has change -86.09827803443932 
+ Power Grid Corp delivery volume has change 322.964390868641 
+ Prestige Estate delivery volume has change -84.32120253164557 
+ Radico Khaitan delivery volume has change 383.82630585273756 
+ Rail Vikas delivery volume has change -77.8687369597247 
+ Rajesh Exports delivery volume has change 1230.1340250756593 
+ Ratnamani Metal delivery volume has change -99.50743732965032 
+ Shree Cements delivery volume has change -79.45945945945945 
+ Syngene Intl delivery volume has change 720.46078865751 
+ Tasty Bite delivery volume has change 795.8904109589041 
+ Tata Coffee delivery volume has change 637.2682067750958 
+ TeamLease Ser. delivery volume has change 913.7184115523465 
+ Thyrocare Techn delivery volume has change 2162.2734761120264 
+ Timken delivery volume has change -89.68436328455678 
+ Torrent Pharma delivery volume has change -87.64565992865636 
+ UPL delivery volume has change 1421.5632686526374 
+ Ujjivan Financi delivery volume has change 948.9331335188754 
+ Ujjivan Small delivery volume has change -98.30227150778036 
+ UltraTechCement delivery volume has change 59398.824911868396 
+ Union Bank delivery volume has change -99.63249574232871 
+ United Brewerie delivery volume has change 3873.328352633545 
+ V-Guard Ind delivery volume has change -98.59689312048107 
+ V-Mart Retail delivery volume has change 2410.743801652892 
+ VRL Logistics delivery volume has change -94.7986817595644 
+ VST delivery volume has change 5732.236842105263 
+ Vaibhav Global delivery volume has change 11600.132684652808 
+ Vakrangee delivery volume has change -97.6451467268623 
+ Varun Beverages delivery volume has change 4827.9434250764525 
+ Vedanta delivery volume has change -99.7711061023661 
+ Voltas delivery volume has change -98.6328776258753 
+ WABCO India delivery volume has change 35992.68292682927 
+ Welspun India delivery volume has change -93.85127972133878 
+ Whirlpool delivery volume has change 2959.9490941757745 
+ Wipro delivery volume has change -96.22106239913218 
+ Wockhardt delivery volume has change 877.7437244600117 
+ Zensar Tech delivery volume has change -92.4716354290729 
+ Zydus Wellness delivery volume has change 1155.984555984556 
+
+--------------------
+Date: 16:11:2021
+Time: 17:45
+Phone number: +919422878112
+Message:  ABB India:523.0995425833152 
+ ABB Power Produ:417.39811912225707 
+ AIA Engineering:513.7931034482759 
+ APL Apollo:-86.86505900461775 
+ Adani Ports:-85.85278032541866 
+ Ajanta Pharma:-82.34042553191489 
+ Apollo Hospital:551.3284132841329 
+ Ashoka Buildcon:455.5933727202672 
+ AstraZeneca:476.1904761904762 
+ Aurobindo Pharm:553.8904494382022 
+ Avenue Supermar:-87.00403045230631 
+ BASF:407.0160608622147 
+ Bajaj Electric:483.23504633529905 
+ Balrampur Chini:-75.95906558079726 
+ Berger Paints:-81.40640051375361 
+ Bharti Airtel:-86.210194569119 
+ Biocon:2178.4785944693244 
+ Bombay Burmah:500.5154639175258 
+ Britannia:638.169803189197 
+ Burger King:-75.04725180947564 
+ CAMS:-78.27236668135743 
+ Can Fin Homes:426.5985699693565 
+ Capri Global:-86.44207066557108 
+ Cochin Shipyard:-77.57085349489692 
+ Dalmia Bharat:-95.61502096155562 
+ Exide Ind:491.81453606548376 
+ FDC:-75.12382728279238 
+ Finolex Cables:642.5735294117648 
+ Firstsource Sol:915.8976149548776 
+ GSFC:371.2014066740568 
+ Garden Reach Sh:-76.17486338797815 
+ Godrej Consumer:-84.89509522657357 
+ Granules India:717.7978771116758 
+ Grasim:-95.36732876922605 
+ HDFC AMC:-76.4931576927996 
+ HDFC Life:-79.87239129869792 
+ Hindustan Aeron:932.6776347162614 
+ INOX Leisure:-89.43026476457099 
+ ITC:681.0450575151544 
+ Indiabulls Hsg:346.64229064215397 
+ Indostar Capita:-76.5032377428307 
+ Interglobe Avi:-99.81279683780348 
+ J. K. Cement:350.59588299024915 
+ JM Financial:-87.94933947400315 
+ Jamna Auto:-83.53756136929181 
+ Jindal (Hisar):-75.92480713820987 
+ Johnson Control:-99.06466755412316 
+ Lemon Tree Hote:755.5714346657566 
+ M&M:-88.98331962564573 
+ M&M Financial:778.4173944038496 
+ MAS Financial S:-75.84852734922862 
+ MRF:301.04166666666663 
+ Mahindra Logist:-82.74521531100478 
+ Manappuram Fin:942.981117680717 
+ Max Healthcare:987.0005724098455 
+ Metropolis:1182.4543610547669 
+ Minda Ind:-76.06548471529459 
+ Mindtree:-84.37674991600403 
+ NTPC:-94.1959515829223 
+ ONGC:358.9721215123742 
+ Orient Electric:640.855762594893 
+ PI Industries:350.19210618232626 
+ PTC India:-78.11711278983451 
+ Poly Medicure:-86.09827803443932 
+ Power Grid Corp:322.964390868641 
+ Prestige Estate:-84.32120253164557 
+ Radico Khaitan:383.82630585273756 
+ Rail Vikas:-77.8687369597247 
+ Rajesh Exports:1230.1340250756593 
+ Ratnamani Metal:-99.50743732965032 
+ Shree Cements:-79.45945945945945 
+ Syngene Intl:720.46078865751 
+ Tasty Bite:795.8904109589041 
+ Tata Coffee:637.2682067750958 
+ TeamLease Ser.:913.7184115523465 
+ Thyrocare Techn:2162.2734761120264 
+ Timken:-89.68436328455678 
+ Torrent Pharma:-87.64565992865636 
+ UPL:1421.5632686526374 
+ Ujjivan Financi:948.9331335188754 
+ Ujjivan Small:-98.30227150778036 
+ UltraTechCement:59398.824911868396 
+ Union Bank:-99.63249574232871 
+ United Brewerie:3873.328352633545 
+ V-Guard Ind:-98.59689312048107 
+ V-Mart Retail:2410.743801652892 
+ VRL Logistics:-94.7986817595644 
+ VST:5732.236842105263 
+ Vaibhav Global:11600.132684652808 
+ Vakrangee:-97.6451467268623 
+ Varun Beverages:4827.9434250764525 
+ Vedanta:-99.7711061023661 
+ Voltas:-98.6328776258753 
+ WABCO India:35992.68292682927 
+ Welspun India:-93.85127972133878 
+ Whirlpool:2959.9490941757745 
+ Wipro:-96.22106239913218 
+ Wockhardt:877.7437244600117 
+ Zensar Tech:-92.4716354290729 
+ Zydus Wellness:1155.984555984556 
+
+--------------------
+Date: 17:11:2021
+Time: 16:42
+Phone number: +919422878112
+Message:  AAVAS Financier:-94.79818078453667 
+ ABB Power Produ:307.52351097178683 
+ Adani Green Ene:-84.82615320681535 
+ Adani Ports:-88.51319677978192 
+ Adani Trans:-88.79527797396833 
+ Ashoka Buildcon:310.184947341382 
+ Atul:-76.75996607294317 
+ Aurobindo Pharm:370.4634831460674 
+ Bajaj Finance:354.4812768569675 
+ Balkrishna Ind:387.8389482333607 
+ Biocon:850.3711127117848 
+ CCL Products:425.34500667754855 
+ Caplin Labs:328.9719626168224 
+ Chambal Fert:530.5421151377506 
+ Cochin Shipyard:-80.49851583784003 
+ Cyient:442.1648287869994 
+ DLF:-80.53861645824551 
+ Dalmia Bharat:-98.96173401123896 
+ Dishman Carboge:398.0779385362763 
+ Divis Labs:433.8794233289646 
+ Equitas Bank:-75.99417001271738 
+ FDC:-81.08210477244916 
+ Fine Organics:351.75925925925924 
+ Finolex Cables:451.5625 
+ Galaxy Surfacta:-82.31332357247437 
+ Gateway Distri:413.91035548686244 
+ Godrej Agrovet:805.4613935969869 
+ Godrej Consumer:-84.01368773979469 
+ Grasim:-93.76579784893418 
+ Greaves Cotton:2393.0823117338005 
+ Grindwell Norto:364.5413870246085 
+ HDFC AMC:316.81800741782837 
+ HUL:-75.2419447973207 
+ Havells India:-88.27342098004965 
+ Hindustan Aeron:551.2994754411063 
+ ICICI Lombard:407.156862745098 
+ ICICI Prudentia:-91.6368806908607 
+ IDFC:-75.66702146004413 
+ IGL:-83.15458381281165 
+ INOX Leisure:-82.65777168895376 
+ IOC:-78.6202154611645 
+ IRCTC:334.7216739044611 
+ Interglobe Avi:-99.72422431479083 
+ JSW Energy:-76.22959850166045 
+ Johnson Control:-98.65480277446927 
+ Just Dial:-81.99623137098155 
+ Kotak Mahindra:300.9770395701026 
+ Lakshmi Machine:-87.26382085374388 
+ Lemon Tree Hote:585.5296275756155 
+ Manappuram Fin:1109.8893763112721 
+ Maruti Suzuki:426.4616080515662 
+ Max Financial:1039.974293059126 
+ Metropolis:43975.25354969574 
+ Minda Ind:-84.46343029285397 
+ NESCO:-88.56398958541959 
+ NTPC:-92.65529177582951 
+ Navneet:-83.85553197686514 
+ PNC Infratech:725.6706008583692 
+ RITES:-90.02008838891122 
+ Rajesh Exports:2804.712494595763 
+ Redington:1829.283337570887 
+ Sanofi India:-88.76651982378854 
+ Shoppers Stop:390.43031470777134 
+ Siemens:3082.332506203474 
+ Sonata:426.2518968133536 
+ SpiceJet:451.87561483951646 
+ Sterlite Techno:1182.9496609036203 
+ Strides Pharma:-88.88554931582694 
+ TATA Cons. Prod:-75.69855322824444 
+ TCNS Clothing C:415.9636062861869 
+ TVS Motor:464.15340525175327 
+ Tasty Bite:546.5753424657535 
+ Tata Coffee:566.0571842950378 
+ Thyrocare Techn:1174.7940691927513 
+ Timken:-95.34405611319386 
+ Torrent Pharma:-80.3923900118906 
+ Trident:353.37423758350275 
+ Ujjivan Financi:638.1574252479841 
+ Ujjivan Small:-98.99481309247005 
+ UltraTechCement:81952.52643948296 
+ Union Bank:-98.89257863353295 
+ United Brewerie:9970.900261486739 
+ V-Guard Ind:-98.61121053761902 
+ V-Mart Retail:5109.090909090909 
+ VRL Logistics:-94.81301045995129 
+ VST:1448.6842105263158 
+ Vaibhav Global:3096.594427244582 
+ Vakrangee:-91.11693002257336 
+ Varun Beverages:4434.069189602446 
+ Vedanta:-99.7557349031234 
+ Voltas:-98.75514060242303 
+ WABCO India:134939.02439024393 
+ Welspun India:-91.33222272704327 
+ Whirlpool:6152.567749663123 
+ Wipro:-97.02508036191443 
+ Wockhardt:1040.6961471103327 
+ Zensar Tech:-98.89675923023883 
+ Zydus Wellness:766.7953667953668 
+
+--------------------
+Date: 17:11:2021
+Time: 16:42
+Phone number: +919422878112
+Message:  AAVAS Financier:-94.8 
+ ABB Power Produ:307.52 
+ Adani Green Ene:-84.83 
+ Adani Ports:-88.51 
+ Adani Trans:-88.8 
+ Ashoka Buildcon:310.18 
+ Atul:-76.76 
+ Aurobindo Pharm:370.46 
+ Bajaj Finance:354.48 
+ Balkrishna Ind:387.84 
+ Biocon:850.37 
+ CCL Products:425.35 
+ Caplin Labs:328.97 
+ Chambal Fert:530.54 
+ Cochin Shipyard:-80.5 
+ Cyient:442.16 
+ DLF:-80.54 
+ Dalmia Bharat:-98.96 
+ Dishman Carboge:398.08 
+ Divis Labs:433.88 
+ Equitas Bank:-75.99 
+ FDC:-81.08 
+ Fine Organics:351.76 
+ Finolex Cables:451.56 
+ Galaxy Surfacta:-82.31 
+ Gateway Distri:413.91 
+ Godrej Agrovet:805.46 
+ Godrej Consumer:-84.01 
+ Grasim:-93.77 
+ Greaves Cotton:2393.08 
+ Grindwell Norto:364.54 
+ HDFC AMC:316.82 
+ HUL:-75.24 
+ Havells India:-88.27 
+ Hindustan Aeron:551.3 
+ ICICI Lombard:407.16 
+ ICICI Prudentia:-91.64 
+ IDFC:-75.67 
+ IGL:-83.15 
+ INOX Leisure:-82.66 
+ IOC:-78.62 
+ IRCTC:334.72 
+ Interglobe Avi:-99.72 
+ JSW Energy:-76.23 
+ Johnson Control:-98.65 
+ Just Dial:-82.0 
+ Kotak Mahindra:300.98 
+ Lakshmi Machine:-87.26 
+ Lemon Tree Hote:585.53 
+ Manappuram Fin:1109.89 
+ Maruti Suzuki:426.46 
+ Max Financial:1039.97 
+ Metropolis:43975.25 
+ Minda Ind:-84.46 
+ NESCO:-88.56 
+ NTPC:-92.66 
+ Navneet:-83.86 
+ PNC Infratech:725.67 
+ RITES:-90.02 
+ Rajesh Exports:2804.71 
+ Redington:1829.28 
+ Sanofi India:-88.77 
+ Shoppers Stop:390.43 
+ Siemens:3082.33 
+ Sonata:426.25 
+ SpiceJet:451.88 
+ Sterlite Techno:1182.95 
+ Strides Pharma:-88.89 
+ TATA Cons. Prod:-75.7 
+ TCNS Clothing C:415.96 
+ TVS Motor:464.15 
+ Tasty Bite:546.58 
+ Tata Coffee:566.06 
+ Thyrocare Techn:1174.79 
+ Timken:-95.34 
+ Torrent Pharma:-80.39 
+ Trident:353.37 
+ Ujjivan Financi:638.16 
+ Ujjivan Small:-98.99 
+ UltraTechCement:81952.53 
+ Union Bank:-98.89 
+ United Brewerie:9970.9 
+ V-Guard Ind:-98.61 
+ V-Mart Retail:5109.09 
+ VRL Logistics:-94.81 
+ VST:1448.68 
+ Vaibhav Global:3096.59 
+ Vakrangee:-91.12 
+ Varun Beverages:4434.07 
+ Vedanta:-99.76 
+ Voltas:-98.76 
+ WABCO India:134939.02 
+ Welspun India:-91.33 
+ Whirlpool:6152.57 
+ Wipro:-97.03 
+ Wockhardt:1040.7 
+ Zensar Tech:-98.9 
+ Zydus Wellness:766.8 
+
+--------------------
+Date: 17:11:2021
+Time: 16:43
+Phone number: +919422878112
+Message:  AAVAS Financier:-94.8 
+ ABB Power Produ:307.52 
+ Adani Green Ene:-84.83 
+ Adani Ports:-88.51 
+ Adani Trans:-88.8 
+ Ashoka Buildcon:310.18 
+ Atul:-76.76 
+ Aurobindo Pharm:370.46 
+ Bajaj Finance:354.48 
+ Balkrishna Ind:387.84 
+ Biocon:850.37 
+ CCL Products:425.35 
+ Caplin Labs:328.97 
+ Chambal Fert:530.54 
+ Cochin Shipyard:-80.5 
+ Cyient:442.16 
+ DLF:-80.54 
+ Dalmia Bharat:-98.96 
+ Dishman Carboge:398.08 
+ Divis Labs:433.88 
+ Equitas Bank:-75.99 
+ FDC:-81.08 
+ Fine Organics:351.76 
+ Finolex Cables:451.56 
+ Galaxy Surfacta:-82.31 
+ Gateway Distri:413.91 
+ Godrej Agrovet:805.46 
+ Godrej Consumer:-84.01 
+ Grasim:-93.77 
+ Greaves Cotton:2393.08 
+ Grindwell Norto:364.54 
+ HDFC AMC:316.82 
+ HUL:-75.24 
+ Havells India:-88.27 
+ Hindustan Aeron:551.3 
+ ICICI Lombard:407.16 
+ ICICI Prudentia:-91.64 
+ IDFC:-75.67 
+ IGL:-83.15 
+ INOX Leisure:-82.66 
+ IOC:-78.62 
+ IRCTC:334.72 
+ Interglobe Avi:-99.72 
+ JSW Energy:-76.23 
+ Johnson Control:-98.65 
+ Just Dial:-82.0 
+ Kotak Mahindra:300.98 
+ Lakshmi Machine:-87.26 
+ Lemon Tree Hote:585.53 
+ Manappuram Fin:1109.89 
+ Maruti Suzuki:426.46 
+ Max Financial:1039.97 
+ Metropolis:43975.25 
+ Minda Ind:-84.46 
+ NESCO:-88.56 
+ NTPC:-92.66 
+ Navneet:-83.86 
+ PNC Infratech:725.67 
+ RITES:-90.02 
+ Rajesh Exports:2804.71 
+ Redington:1829.28 
+ Sanofi India:-88.77 
+ Shoppers Stop:390.43 
+ Siemens:3082.33 
+ Sonata:426.25 
+ SpiceJet:451.88 
+ Sterlite Techno:1182.95 
+ Strides Pharma:-88.89 
+ TATA Cons. Prod:-75.7 
+ TCNS Clothing C:415.96 
+ TVS Motor:464.15 
+ Tasty Bite:546.58 
+ Tata Coffee:566.06 
+ Thyrocare Techn:1174.79 
+ Timken:-95.34 
+ Torrent Pharma:-80.39 
+ Trident:353.37 
+ Ujjivan Financi:638.16 
+ Ujjivan Small:-98.99 
+ UltraTechCement:81952.53 
+ Union Bank:-98.89 
+ United Brewerie:9970.9 
+ V-Guard Ind:-98.61 
+ V-Mart Retail:5109.09 
+ VRL Logistics:-94.81 
+ VST:1448.68 
+ Vaibhav Global:3096.59 
+ Vakrangee:-91.12 
+ Varun Beverages:4434.07 
+ Vedanta:-99.76 
+ Voltas:-98.76 
+ WABCO India:134939.02 
+ Welspun India:-91.33 
+ Whirlpool:6152.57 
+ Wipro:-97.03 
+ Wockhardt:1040.7 
+ Zensar Tech:-98.9 
+ Zydus Wellness:766.8 
+
+--------------------
+Date: 17:11:2021
+Time: 16:44
+Phone number: +919422878112
+Message:  AAVAS Financier:-94.8 
+ ABB Power Produ:307.52 
+ Adani Green Ene:-84.83 
+ Adani Ports:-88.51 
+ Adani Trans:-88.8 
+ Ashoka Buildcon:310.18 
+ Atul:-76.76 
+ Aurobindo Pharm:370.46 
+ Bajaj Finance:354.48 
+ Balkrishna Ind:387.84 
+ Biocon:850.37 
+ CCL Products:425.35 
+ Caplin Labs:328.97 
+ Chambal Fert:530.54 
+ Cochin Shipyard:-80.5 
+ Cyient:442.16 
+ DLF:-80.54 
+ Dalmia Bharat:-98.96 
+ Dishman Carboge:398.08 
+ Divis Labs:433.88 
+ Equitas Bank:-75.99 
+ FDC:-81.08 
+ Fine Organics:351.76 
+ Finolex Cables:451.56 
+ Galaxy Surfacta:-82.31 
+ Gateway Distri:413.91 
+ Godrej Agrovet:805.46 
+ Godrej Consumer:-84.01 
+ Grasim:-93.77 
+ Greaves Cotton:2393.08 
+ Grindwell Norto:364.54 
+ HDFC AMC:316.82 
+ HUL:-75.24 
+ Havells India:-88.27 
+ Hindustan Aeron:551.3 
+ ICICI Lombard:407.16 
+ ICICI Prudentia:-91.64 
+ IDFC:-75.67 
+ IGL:-83.15 
+ INOX Leisure:-82.66 
+ IOC:-78.62 
+ IRCTC:334.72 
+ Interglobe Avi:-99.72 
+ JSW Energy:-76.23 
+ Johnson Control:-98.65 
+ Just Dial:-82.0 
+ Kotak Mahindra:300.98 
+ Lakshmi Machine:-87.26 
+ Lemon Tree Hote:585.53 
+ Manappuram Fin:1109.89 
+ Maruti Suzuki:426.46 
+ Max Financial:1039.97 
+ Metropolis:43975.25 
+ Minda Ind:-84.46 
+ NESCO:-88.56 
+ NTPC:-92.66 
+ Navneet:-83.86 
+ PNC Infratech:725.67 
+ RITES:-90.02 
+ Rajesh Exports:2804.71 
+ Redington:1829.28 
+ Sanofi India:-88.77 
+ Shoppers Stop:390.43 
+ Siemens:3082.33 
+ Sonata:426.25 
+ SpiceJet:451.88 
+ Sterlite Techno:1182.95 
+ Strides Pharma:-88.89 
+ TATA Cons. Prod:-75.7 
+ TCNS Clothing C:415.96 
+ TVS Motor:464.15 
+ Tasty Bite:546.58 
+ Tata Coffee:566.06 
+ Thyrocare Techn:1174.79 
+ Timken:-95.34 
+ Torrent Pharma:-80.39 
+ Trident:353.37 
+ Ujjivan Financi:638.16 
+ Ujjivan Small:-98.99 
+ UltraTechCement:81952.53 
+ Union Bank:-98.89 
+ United Brewerie:9970.9 
+ V-Guard Ind:-98.61 
+ V-Mart Retail:5109.09 
+ VRL Logistics:-94.81 
+ VST:1448.68 
+ Vaibhav Global:3096.59 
+ Vakrangee:-91.12 
+ Varun Beverages:4434.07 
+ Vedanta:-99.76 
+ Voltas:-98.76 
+ WABCO India:134939.02 
+ Welspun India:-91.33 
+ Whirlpool:6152.57 
+ Wipro:-97.03 
+ Wockhardt:1040.7 
+ Zensar Tech:-98.9 
+ Zydus Wellness:766.8 
+
+--------------------

@@ -59,6 +59,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\data\formodel.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\data\marutisuziki.csv">
           <value>
             <Attribute>

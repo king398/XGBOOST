@@ -3,6 +3,13 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="\BSE500Daily.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\data\10-11-2021.csv">
           <value>
             <Attribute>
@@ -39,6 +46,20 @@
           </value>
         </entry>
         <entry key="\data\RELIANCENS.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\Reliance.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\marutisuziki.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

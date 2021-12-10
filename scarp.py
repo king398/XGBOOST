@@ -36,7 +36,6 @@ for i in range(5):
 		search_result = investpy.search_quotes(text=stock, products=['stocks'],
 		                                       countries=['india'], n_results=1)
 		technical_indicators = search_result.retrieve_technical_indicators(interval='1min')
-		print(technical_indicators)
 
 		technical_indicators["value"] = technical_indicators["value"].astype(np.float)
 		technical.extend(technical_indicators["value"].values)
@@ -51,4 +50,6 @@ for i in range(5):
 	                   ignore_index=True)
 	new_df.to_csv(fr"F:\Pycharm_projects\XGBOOST\data\Reliance_data.csv", index=False)
 	print(new_df.head())
-	time.sleep(400)
+	for i in tqdm(range(400)):
+		time.sleep(1)
+

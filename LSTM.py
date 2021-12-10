@@ -1,6 +1,7 @@
 import pandas as pd
 df = pd.read_csv("F:\Pycharm_projects\XGBOOST\data\Reliance_data.csv")
-target_sensor = "Austin"
+del df['timestamp']
+target_sensor = "Price"
 features = list(df.columns.difference([target_sensor]))
 
 forecast_lead = 15
